@@ -69,6 +69,41 @@
         <item>#666666</item>
         <item>#2e6b8a</item>
     </array>
+    <array name="refresh_header_text_color">
+        <item>#BBBBBB</item>
+        <item>#666666</item>
+        <item>#2e6b8a</item>
+    </array>
+    <array name="refresh_header_sub_text_color">
+        <item>#aaaaaa</item>
+        <item>#666666</item>
+        <item>#2e6b8a</item>
+    </array>
+    <array name="refresh_bg_color">
+        <item>#E3EDCF</item>
+        <item>#48b3e5</item>
+        <item>#2e6b8a</item>
+    </array>
+    <!-- 更多中item bg颜色 -->
+    <array name="item_white_black_bg">
+        <item>#FFFFFF</item>
+        <item>#15253d </item>
+        <item>#15253d </item>
+    </array>
+
+    <!-- 分隔线 -->
+    <array name="txt_line_color">
+        <item>#DDDDDD</item>
+        <item>#0e1929</item>
+    </array>
+    <array name="txt_line_drawable">
+        <item>@drawable/rectangle_line_day</item>
+        <item>@drawable/rectangle_line_night</item>
+    </array>
+    <array name="photo">
+        <item>@drawable/zhaox</item>
+        <item>@drawable/zhaox_n</item>
+    </array>
     <!-- color 颜色值 #############################  end -->
     <!-- ————————————————————————————————————————————————————————————皮肤颜色 0：白天，1夜间  end —————————————————————— -->
 
