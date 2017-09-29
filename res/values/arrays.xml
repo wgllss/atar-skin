@@ -102,6 +102,10 @@
         <item>#15253d </item>
         <item>#15253d </item>
     </array>
+    <array name="grey_bg_color">
+        <item>#c3c3c3</item>
+        <item>#303030</item>
+    </array>
 
     <!-- 分隔线 -->
     <array name="txt_line_color">
@@ -115,6 +119,10 @@
     <array name="photo">
         <item>@drawable/zhaox</item>
         <item>@drawable/zhaox_n</item>
+    </array>
+    <array name="zhi_hu_recording">
+        <item>@anim/anim_recording</item>
+        <item>@anim/anim_recording</item>
     </array>
     <!-- color 颜色值 #############################  end -->
     <!-- ————————————————————————————————————————————————————————————皮肤颜色 0：白天，1夜间  end —————————————————————— -->
